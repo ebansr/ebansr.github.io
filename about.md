@@ -1,3 +1,9 @@
+---
+layout: page
+title: "About Me"
+permalink: /about/
+---
+
 ## About Me
 I develop web-based engineering apps for a large aerospace company. I received my formal training from Brigham Young University, where I earned both a Bachelors and Masters degree in Mechanical Engineering. While in school, my research interests introduced me to computer programming, automation, and application development which I have been involved with ever since. 
 
